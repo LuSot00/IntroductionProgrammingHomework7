@@ -1,0 +1,15 @@
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 7\Exercise50(1)\bin\Debug\net6.0\Exercise50(1).exe
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 7\Exercise50(1)\bin\Debug\net6.0\Exercise50(1).deps.json
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 7\Exercise50(1)\bin\Debug\net6.0\Exercise50(1).runtimeconfig.json
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 7\Exercise50(1)\bin\Debug\net6.0\Exercise50(1).dll
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 7\Exercise50(1)\bin\Debug\net6.0\Exercise50(1).pdb
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 7\Exercise50(1)\obj\Debug\net6.0\Exercise50(1).csproj.AssemblyReference.cache
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 7\Exercise50(1)\obj\Debug\net6.0\Exercise50(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 7\Exercise50(1)\obj\Debug\net6.0\Exercise50(1).AssemblyInfoInputs.cache
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 7\Exercise50(1)\obj\Debug\net6.0\Exercise50(1).AssemblyInfo.cs
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 7\Exercise50(1)\obj\Debug\net6.0\Exercise50(1).csproj.CoreCompileInputs.cache
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 7\Exercise50(1)\obj\Debug\net6.0\Exercise50(1).dll
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 7\Exercise50(1)\obj\Debug\net6.0\refint\Exercise50(1).dll
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 7\Exercise50(1)\obj\Debug\net6.0\Exercise50(1).pdb
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 7\Exercise50(1)\obj\Debug\net6.0\Exercise50(1).genruntimeconfig.cache
+C:\Users\LSots\OneDrive\Документы\GeekBrains\Домашние задания\Знакомстыо с языками программирования\Дз 7\Exercise50(1)\obj\Debug\net6.0\ref\Exercise50(1).dll
